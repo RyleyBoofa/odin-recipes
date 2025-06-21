@@ -5,3 +5,4 @@
 ## References
 
 - "Nachos!" by <a href="https://www.flickr.com/photos/anokarina/">anokarina</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0 license</a>.
+- "Guacamole" by <a href="https://www.flickr.com/photos/stuart_spivack/">stu_spivack</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0 license</a>.
